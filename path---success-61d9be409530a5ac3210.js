@@ -1,0 +1,2 @@
+webpackJsonp([0x9b544cfa2a85],{712:function(e,s){e.exports={data:{page:{id:"/Users/wangyituo/Developer/museum/content/pages/success/index.md absPath of file >>> MarkdownRemark",html:"<p>Thank you. <br />\nI will answer to your message as soon as possible.</p>",frontmatter:{title:"Success"}},site:{siteMetadata:{facebook:{appId:"a"}}}},pathContext:{slug:"/success/"}}}});
+//# sourceMappingURL=path---success-61d9be409530a5ac3210.js.map
